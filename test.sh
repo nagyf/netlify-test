@@ -9,4 +9,5 @@ which apt
 ls /bin
 ls /usr/bin
 ls /usr/local/bin
+ifconfig
 
