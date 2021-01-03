@@ -6,4 +6,7 @@ groups
 uname -a
 which apt
 
-apt-get update
+ls /bin
+ls /usr/bin
+ls /usr/local/bin
+
