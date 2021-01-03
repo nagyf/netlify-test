@@ -5,5 +5,5 @@ users
 groups
 uname -a
 which apt
-which yum
 
+apt-get update
