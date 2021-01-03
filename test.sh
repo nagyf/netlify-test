@@ -10,4 +10,6 @@ uname -a
 #ls /usr/local/bin
 #ip addr
 cat /etc/*-release
-
+ls /tmp
+ls /etc
+ls /home
