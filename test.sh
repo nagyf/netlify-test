@@ -8,5 +8,6 @@ uname -a
 #ls /bin
 #ls /usr/bin
 #ls /usr/local/bin
-ip addr
+#ip addr
+cat /etc/*-release
 
